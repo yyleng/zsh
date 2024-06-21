@@ -8,7 +8,7 @@ NC='\033[0m' # No Color
 ZSH_CUSTOM="$HOME/.oh-my-zsh/custom"
 ZSH="$HOME/.oh-my-zsh"
 VERSION="1.2.1"
-MATAINER="Aico:(https://github.com/TBBtianbaoboy)"
+MATAINER="Aico:(https://github.com/yyleng)"
 #------------------------------------------------------------------------------
 function warming() {
     echo -e "${YELLOW}$1${NC}"
